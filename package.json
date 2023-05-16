@@ -9,17 +9,17 @@
     "ios"
   ],
   "bugs": {
-    "url": "https://github.com/nanoscopic/stf-ios-provider/issues"
+    "url": "https://github.com/AlexMagdebyr/stf-ios-provider/issues"
   },
   "license": "Apache-2.0",
   "author": {
-    "name": "David Helkowski",
+    "name": "Alex Magdebyr",
     "email": "stfios@codechild.com",
     "url": "https://dryark.com/stfios"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nanoscopic/stf-ios-provider.git"
+    "url": "https://github.com/AlexMagdebyr/stf-ios-provider.git"
   },
   "dependencies": {
     "bluebird": "^3.7.2",
